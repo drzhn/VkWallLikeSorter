@@ -1,0 +1,8 @@
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\bin\Debug\LikeSorter.exe
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\bin\Debug\LikeSorter.pdb
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\obj\Debug\LikeSorter.csprojResolveAssemblyReference.cache
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\obj\Debug\LikeSorter.exe
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\obj\Debug\LikeSorter.pdb
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\bin\Debug\Newtonsoft.Json.dll
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\bin\Debug\Newtonsoft.Json.pdb
+F:\PROJECTS\VkWallLikeSorter\LikeSorter\bin\Debug\Newtonsoft.Json.xml

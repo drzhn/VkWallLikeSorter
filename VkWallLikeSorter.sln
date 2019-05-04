@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeSorter", "LikeSorter\LikeSorter.csproj", "{463AC1CE-7AF5-4BF7-B95E-3B836C99F33C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463AC1CE-7AF5-4BF7-B95E-3B836C99F33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463AC1CE-7AF5-4BF7-B95E-3B836C99F33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463AC1CE-7AF5-4BF7-B95E-3B836C99F33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463AC1CE-7AF5-4BF7-B95E-3B836C99F33C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
